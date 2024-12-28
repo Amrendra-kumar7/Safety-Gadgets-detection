@@ -1,0 +1,5 @@
+train: C:\Users\amren\OneDrive\Desktop\College-Project\AI-model\Object-Detection\Model\dataset\train\images
+val: C:\Users\amren\OneDrive\Desktop\College-Project\AI-model\Object-Detection\Model\dataset\valid\images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
